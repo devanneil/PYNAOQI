@@ -1,0 +1,5 @@
+activateEnv.sh
+myenv/*
+.DS_Store
+pynaoqi/*
+UNEXT/
